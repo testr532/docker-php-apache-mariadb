@@ -3,7 +3,7 @@ Dockerの練習目的
 
 #### 環境
 
-* PHP8.3
+* PHP8.2
 * MariaDB11.3
 
 #### ホスト側からdocker-compose.ymlと同じディレクトリから実行する
